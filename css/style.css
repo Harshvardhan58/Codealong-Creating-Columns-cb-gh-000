@@ -34,6 +34,12 @@ body{
   line-height: 0;
   clear: both;
 }
+[class*="col-"]{
+  margin-left: 2%;
+}
+.first{
+  margin-left: 0%;
+}
 /* Type selector */
 .col-1{
   width:32%;
