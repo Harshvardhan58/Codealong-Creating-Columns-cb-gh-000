@@ -13,7 +13,10 @@ selector {
 }
 
 */
-
+.wrapper{
+  margin: 0 auto;
+  
+}
 /* Type selector */
 
 p { /* select all <p> */
