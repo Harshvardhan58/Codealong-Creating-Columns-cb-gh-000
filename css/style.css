@@ -17,6 +17,9 @@ selector {
   margin: 0 auto;
 
 }
+body{
+  width: 100%;
+}
 /* Type selector */
 
 p { /* select all <p> */
